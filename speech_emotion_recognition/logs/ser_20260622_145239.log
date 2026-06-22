@@ -100,3 +100,48 @@ neutral      192
 [2026-06-22 17:31:18] [INFO    ] training.trainer — Epoch [074/100] | Train loss 0.7469 acc 0.8854 | Val loss 0.8658 acc 0.8449 | LR 5.00e-04 | 132.0s
 [2026-06-22 17:33:21] [INFO    ] training.trainer — Epoch [075/100] | Train loss 0.7279 acc 0.8958 | Val loss 0.8283 acc 0.8565 | LR 5.00e-04 | 123.5s
 [2026-06-22 17:35:31] [INFO    ] training.trainer — Epoch [076/100] | Train loss 0.7291 acc 0.9008 | Val loss 0.8124 acc 0.8588 | LR 5.00e-04 | 129.2s
+[2026-06-22 17:37:43] [INFO    ] training.trainer — Epoch [077/100] | Train loss 0.7207 acc 0.9067 | Val loss 0.8506 acc 0.8472 | LR 5.00e-04 | 132.0s
+[2026-06-22 19:16:46] [INFO    ] training.trainer — Epoch [078/100] | Train loss 0.7313 acc 0.9033 | Val loss 0.8063 acc 0.8704 | LR 5.00e-04 | 5945.2s
+[2026-06-22 19:19:04] [INFO    ] training.trainer — Epoch [079/100] | Train loss 0.7163 acc 0.9112 | Val loss 0.8155 acc 0.8542 | LR 5.00e-04 | 137.8s
+[2026-06-22 19:21:10] [INFO    ] training.trainer — Epoch [080/100] | Train loss 0.7300 acc 0.9062 | Val loss 0.8216 acc 0.8565 | LR 5.00e-04 | 125.7s
+[2026-06-22 19:23:13] [INFO    ] training.trainer — Epoch [081/100] | Train loss 0.7217 acc 0.9028 | Val loss 0.8239 acc 0.8588 | LR 5.00e-04 | 123.4s
+[2026-06-22 19:25:17] [INFO    ] training.trainer — Epoch [082/100] | Train loss 0.7309 acc 0.8973 | Val loss 0.8352 acc 0.8449 | LR 5.00e-04 | 123.3s
+[2026-06-22 19:27:20] [INFO    ] training.trainer — Epoch [083/100] | Train loss 0.6980 acc 0.9152 | Val loss 0.8039 acc 0.8611 | LR 5.00e-04 | 123.4s
+[2026-06-22 19:29:33] [INFO    ] training.trainer — Epoch [084/100] | Train loss 0.7051 acc 0.9087 | Val loss 0.7940 acc 0.8727 | LR 5.00e-04 | 132.8s
+[2026-06-22 19:31:41] [INFO    ] training.trainer — Epoch [085/100] | Train loss 0.7012 acc 0.9147 | Val loss 0.8165 acc 0.8588 | LR 5.00e-04 | 127.3s
+[2026-06-22 19:33:56] [INFO    ] training.trainer — Epoch [086/100] | Train loss 0.7026 acc 0.9147 | Val loss 0.8197 acc 0.8588 | LR 5.00e-04 | 134.7s
+[2026-06-22 19:35:59] [INFO    ] training.trainer — Epoch [087/100] | Train loss 0.7046 acc 0.9062 | Val loss 0.7820 acc 0.8843 | LR 5.00e-04 | 123.4s
+[2026-06-22 20:07:32] [INFO    ] training.trainer — Epoch [088/100] | Train loss 0.6952 acc 0.9132 | Val loss 0.7746 acc 0.8912 | LR 5.00e-04 | 1892.4s
+[2026-06-22 20:09:40] [INFO    ] training.trainer — Epoch [089/100] | Train loss 0.6794 acc 0.9187 | Val loss 0.8173 acc 0.8750 | LR 5.00e-04 | 127.8s
+[2026-06-22 20:11:42] [INFO    ] training.trainer — Epoch [090/100] | Train loss 0.7067 acc 0.9132 | Val loss 0.7858 acc 0.8773 | LR 5.00e-04 | 122.2s
+[2026-06-22 20:13:44] [INFO    ] training.trainer — Epoch [091/100] | Train loss 0.6959 acc 0.9182 | Val loss 0.7646 acc 0.8704 | LR 5.00e-04 | 122.1s
+[2026-06-22 20:15:44] [INFO    ] training.trainer — Epoch [092/100] | Train loss 0.6950 acc 0.9167 | Val loss 0.7717 acc 0.8681 | LR 5.00e-04 | 119.9s
+[2026-06-22 20:17:55] [INFO    ] training.trainer — Epoch [093/100] | Train loss 0.6676 acc 0.9256 | Val loss 0.8031 acc 0.8727 | LR 5.00e-04 | 130.5s
+[2026-06-22 20:19:56] [INFO    ] training.trainer — Epoch [094/100] | Train loss 0.6699 acc 0.9206 | Val loss 0.8083 acc 0.8796 | LR 5.00e-04 | 121.3s
+[2026-06-22 20:21:58] [INFO    ] training.trainer — Epoch [095/100] | Train loss 0.6803 acc 0.9196 | Val loss 0.7842 acc 0.8866 | LR 5.00e-04 | 121.1s
+[2026-06-22 20:23:58] [INFO    ] training.trainer — Epoch [096/100] | Train loss 0.6702 acc 0.9271 | Val loss 0.7845 acc 0.8773 | LR 5.00e-04 | 120.8s
+[2026-06-22 20:26:01] [INFO    ] training.trainer — Epoch [097/100] | Train loss 0.6646 acc 0.9271 | Val loss 0.7602 acc 0.8750 | LR 2.50e-04 | 122.5s
+[2026-06-22 20:31:42] [INFO    ] training.trainer — Epoch [098/100] | Train loss 0.6741 acc 0.9256 | Val loss 0.7717 acc 0.8819 | LR 2.50e-04 | 340.4s
+[2026-06-22 20:33:48] [INFO    ] training.trainer — Epoch [099/100] | Train loss 0.6368 acc 0.9400 | Val loss 0.7800 acc 0.8866 | LR 2.50e-04 | 126.4s
+[2026-06-22 20:35:50] [INFO    ] training.trainer — Epoch [100/100] | Train loss 0.6439 acc 0.9410 | Val loss 0.7597 acc 0.8750 | LR 2.50e-04 | 121.2s
+[2026-06-22 20:35:50] [INFO    ] training.trainer — Training complete. Best val_acc = 0.8912
+[2026-06-22 20:35:50] [INFO    ] __main__ — 
+[5/5] Evaluating on test set …
+[2026-06-22 20:36:50] [INFO    ] evaluation.metrics — Test accuracy  : 0.8704
+[2026-06-22 20:36:50] [INFO    ] evaluation.metrics — Weighted F1    : 0.8707
+[2026-06-22 20:36:50] [INFO    ] evaluation.metrics — 
+              precision    recall  f1-score   support
+
+     neutral       0.82      0.97      0.89        29
+        calm       0.98      0.93      0.95        57
+       happy       0.73      0.79      0.76        57
+         sad       0.82      0.78      0.80        58
+       angry       0.90      0.90      0.90        58
+     fearful       0.91      0.86      0.88        58
+     disgust       0.92      0.82      0.87        57
+   surprised       0.89      0.97      0.93        58
+
+    accuracy                           0.87       432
+   macro avg       0.87      0.88      0.87       432
+weighted avg       0.87      0.87      0.87       432
+
