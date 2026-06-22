@@ -1,0 +1,25 @@
+[2026-06-22 14:52:39] [INFO    ] __main__ — Device  : cpu
+[2026-06-22 14:52:39] [INFO    ] __main__ — AMP     : False
+[2026-06-22 14:52:39] [INFO    ] __main__ — Epochs  : 100
+[2026-06-22 14:52:39] [INFO    ] __main__ — Batch   : 32
+[2026-06-22 14:52:39] [INFO    ] __main__ — LR      : 0.001
+[2026-06-22 14:52:39] [INFO    ] __main__ — 
+[1/5] Loading datasets …
+[2026-06-22 14:52:40] [INFO    ] data.loader — Total samples : 2880
+[2026-06-22 14:52:40] [INFO    ] data.loader — Per-class distribution:
+emotion
+calm         384
+happy        384
+sad          384
+angry        384
+fearful      384
+disgust      384
+surprised    384
+neutral      192
+[2026-06-22 14:52:40] [INFO    ] __main__ — 
+[2/5] Building DataLoaders …
+[2026-06-22 14:52:40] [INFO    ] data.dataset — DataLoaders ready — Train: 2016 | Val: 432 | Test: 432 | Workers: 4
+[2026-06-22 14:52:40] [INFO    ] __main__ — 
+[3/5] Initializing model …
+[2026-06-22 14:52:40] [INFO    ] __main__ — 
+[4/5] Training …
